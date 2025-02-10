@@ -83,7 +83,7 @@ Grid search was applied to optimize model performance, particularly for **Random
 
 ---
 
-### **2️Model Performance Evaluation**  
+### **Model Performance Evaluation**  
 
 | **Dataset**           | **Model**    | **Accuracy** | **Precision** | **Recall** | **F1 Score** |
 |----------------------|-------------|------------|------------|--------|---------|
